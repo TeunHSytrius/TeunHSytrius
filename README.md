@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TeunHSytrius
-- 👀 I’m interested in Frontend Development and Backend Development 
-- 🌱 I’m currently learning HTML, CSS, PHP, SQL and JavaScript.
-- 📫 How to reach me ✉️|teunhak2003@gmail.com
+Hey everyone!
+
+I am a student learning software development.
 
 <!---
 TeunHSytrius/TeunHSytrius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
