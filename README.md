@@ -1,26 +1,35 @@
 # Hi, I'm Teun 👋
 
-I am a first-year **Software Engineering** student at The Hague University of Applied Sciences, based in the **Netherlands** 🇳🇱.
+I am a first-year **Software Engineering** student at The Hague University of Applied Sciences, based in the **Netherlands** 🇳🇱. 
 
 ---
 
-## 🚀 My Journey
-I am highly driven to become a versatile **Full-Stack Software Engineer**. My focus is on writing clean, well-structured code and understanding how complex systems work under the hood.
+## 🌱 What I'm Focused on Right Now (Year 1)
+I am currently building my core software engineering foundation, focusing on writing clean, structured code and understanding system architecture.
 
-* **🌱 Learning Right Now:** Deepening my knowledge in Java, Object-Oriented Programming (OOP), MVC Architecture, and Software Design Patterns (such as Observer, Factory, and Strategy).
-* **🎯 Future Stack:** Preparing to expand my skillset soon with ASP.NET Core, React, and SQL Databases.
-* **💼 Long-term Ambition:** Growing from building applications towards designing Software & Enterprise Architecture.
+* **Current Learning:** Deepening my knowledge in Java, Object-Oriented Programming (OOP) principles, and MVC Architecture.
+* **Design Patterns:** Mastering patterns like Factory, Strategy, Command, and Observer.
+* **Systems:** Learning the basics of Computer Networks and Embedded Systems.
 
 ---
 
-## 🛠️ Tech Stack & Skills
-Here is the foundation I am currently building during my studies:
+## 🎯 My Ultimate Goal: AI-Native Fullstack Engineer
+*I have mapped out my 4-year academic path and personal growth to specialize in the intersection of Fullstack Development, Cloud Architecture, and AI Integration.*
 
-| Category | Technologies / Concepts |
-| :--- | :--- |
-| **Languages** | Java, HTML, CSS |
-| **Concepts & Architecture** | OOP, MVC, Agile/Scrum, Design Patterns |
-| **Tools & Environments** | Git, GitHub, IntelliJ IDEA |
+<details>
+<summary><b>🔮 View my Future Tech Stack & Target Profile</b></summary>
+
+### Specialization & AI
+* AI integration in production apps, RAG systems, LLM APIs, and Vector Search (`pgvector`).
+
+### Backend & Frontend
+* **Backend:** Node.js, FastAPI, ASP.NET Core, Java, Clean Architecture, and Distributed Systems.
+* **Frontend:** Next.js, React, and TypeScript (Backend-oriented).
+
+### Data & Platform
+* **Data:** PostgreSQL, Redis, and mid-level Algorithms & Data Structures.
+* **Cloud/DevOps:** Azure, Kubernetes, Docker, CI/CD, and DevSecOps (OWASP / Threat modeling).
+</details>
 
 ---
 
