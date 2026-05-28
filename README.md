@@ -1,6 +1,6 @@
 # Hi, I'm Teun 👋
 
-I'm a Software Engineering student at The Hague University of Applied Sciences ![](https://img.shields.io/badge/-%F0%9F%87%B3%F0%9F%87%B1-flat), working towards becoming a Full-Stack Engineer.
+I'm a Software Engineering student at The Hague University of Applied Sciences, working towards becoming a Full-Stack Engineer.
 ---
 
 ## 🌱 What I'm Doing Right Now (Semester 2)
