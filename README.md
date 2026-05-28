@@ -1,39 +1,29 @@
 # Hi, I'm Teun 👋
 
-I am a first-year **Software Engineering** student at The Hague University of Applied Sciences, based in the **Netherlands** 🇳🇱. 
+I'm a Software Engineering student at The Hague University of Applied Sciences 🇳🇱, working towards becoming a Full-Stack Engineer.
 
 ---
 
-## 🌱 What I'm Focused on Right Now (Year 1)
-I am currently building my core software engineering foundation, focusing on writing clean, structured code and understanding system architecture.
+## 🌱 What I'm Doing Right Now (Semester 2)
+My current focus is on mastering the core fundamentals of software development and code quality:
 
-* **Current Learning:** Deepening my knowledge in Java, Object-Oriented Programming (OOP) principles, and MVC Architecture.
-* **Design Patterns:** Mastering patterns like Factory, Strategy, Command, and Observer.
-* **Systems:** Learning the basics of Computer Networks and Embedded Systems.
+* **Language:** Java (Core programming & OOP principles)
+* **Architecture:** MVC framework and Event-driven thinking
+* **Design Patterns:** Implementing Factory, Strategy, and Observer patterns
 
 ---
 
-## 🎯 My Ultimate Goal: AI-Native Fullstack Engineer
-*I have mapped out my 4-year academic path and personal growth to specialize in the intersection of Fullstack Development, Cloud Architecture, and AI Integration.*
+## 🚀 Coming Up Next (Semester 3)
+In the upcoming semester, I will be stepping into multi-layer web application development, security, and databases:
 
-<details>
-<summary><b>🔮 View my Future Tech Stack & Target Profile</b></summary>
-
-### Specialization & AI
-* AI integration in production apps, RAG systems, LLM APIs, and Vector Search (`pgvector`).
-
-### Backend & Frontend
-* **Backend:** Node.js, FastAPI, ASP.NET Core, Java, Clean Architecture, and Distributed Systems.
-* **Frontend:** Next.js, React, and TypeScript (Backend-oriented).
-
-### Data & Platform
-* **Data:** PostgreSQL, Redis, and mid-level Algorithms & Data Structures.
-* **Cloud/DevOps:** Azure, Kubernetes, Docker, CI/CD, and DevSecOps (OWASP / Threat modeling).
-</details>
+* **Full-Stack Web Dev:** Building scalable web applications using **ASP.NET Core** (Backend) and **React** (Frontend).
+* **Databases:** Relational database design, querying, and object-relational mapping with **Entity Framework Core (EF Core)**.
+* **Security & Privacy:** Integrating **Security by Design** and **Privacy by Design** principles from day one, focusing on threat modeling and cybersecurity fundamentals.
+* **Teamwork:** Developing software for real-world stakeholders using professional workflows and agile collaboration.
 
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teun-hanssen-69b2b4200)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teunh003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/teun-hanssen-69b2b4200)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/teunh003)
