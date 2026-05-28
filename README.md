@@ -1,8 +1,15 @@
-Hey everyone!
+# Hey, ik ben Teun 👋
 
-I am a student learning software development.
+Eerstejaars Software Engineering student aan 
+De Haagse Hogeschool in Den Haag.
 
-<!---
-TeunHSytrius/TeunHSytrius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Nu aan het leren
+- Java
+- OOP
+- Netwerken
+
+## Plannen
+- Korea minor @ Sejong University 🇰🇷
+- Stage
+- Afstuderen in Cloud Native / AI richting
+
