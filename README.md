@@ -3,16 +3,7 @@
 I'm a Software Engineering student at The Hague University of Applied Sciences, working towards becoming a Full-Stack Engineer.
 ---
 
-## 🌱 What I'm Doing Right Now (Semester 2)
-My current focus is on mastering the core fundamentals of software development and code quality:
-
-* **Language:** Java (Core programming & OOP principles)
-* **Architecture:** MVC framework and Event-driven thinking
-* **Design Patterns:** Implementing Factory, Strategy, and Observer patterns
-
----
-
-## 🚀 Coming Up Next (Semester 3)
+## 🚀 What I'm currently working on (Semester 3)
 In the upcoming semester, I will be stepping into multi-layer web application development, security, and databases:
 
 * **Full-Stack Web Dev:** Building scalable web applications using **ASP.NET Core** (Backend) and **React** (Frontend).
